@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8799effb-fd87-4164-877f-7d87d94d9bbe" name="Default" comment="" />
+    <list default="true" id="8799effb-fd87-4164-877f-7d87d94d9bbe" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/MinesweeperPlayer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MinesweeperPlayer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinesweeperPlayer.py" beforeDir="false" afterPath="$PROJECT_DIR$/MinesweeperPlayer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tile.bmp" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +21,53 @@
     <favorites_list name="MinesweeperPlayer" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MinesweeperPlayer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#170#184#0" />
+                <element signature="e#639#690#0" />
+                <element signature="e#712#755#0" />
+                <element signature="e#787#887#0" />
+                <element signature="e#915#1244#0" />
+                <element signature="e#982#1194#0" />
+                <element signature="e#1014#1194#0" />
+                <element signature="e#1270#1486#0" />
+                <element signature="e#1533#2244#0" />
+                <element signature="e#1598#1647#0" />
+                <element signature="e#1679#1728#0" />
+                <element signature="e#1764#1813#0" />
+                <element signature="e#1848#1897#0" />
+                <element signature="e#2295#2428#0" />
+                <element signature="e#2490#2662#0" />
+                <element signature="e#2566#2642#0" />
+                <element signature="e#2704#2961#0" />
+                <element signature="e#2762#2942#0" />
+                <element signature="e#2996#3271#0" />
+                <element signature="e#3072#3174#0" />
+                <element signature="e#3304#3800#0" />
+                <element signature="e#3374#3535#0" />
+                <element signature="e#3622#3779#0" />
+                <element signature="e#3842#4011#0" />
+                <element signature="e#4047#4391#0" />
+                <element signature="e#4120#4357#0" />
+                <element signature="e#4284#4357#0" />
+                <element signature="e#4417#4581#0" />
+                <element signature="e#4504#4581#0" />
+                <element signature="e#4606#4746#0" />
+                <element signature="e#4771#4925#0" />
+                <element signature="e#5514#5614#0" />
+                <element signature="e#5705#5739#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -26,6 +81,9 @@
       <find>poss</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -35,9 +93,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="width" value="975" />
-    <option name="height" value="1049" />
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -58,23 +116,24 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="MinesweeperPlayer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MinesweeperPlayer" type="462c0819:PsiDirectoryNode" />
+              <item name="Minesweeper-Bot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Minesweeper-Bot" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -160,20 +219,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13020489" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13020489" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978678" weight="0.23051947" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978678" weight="0.31518623" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.35667396" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Python Console" order="6" visible="true" weight="0.36402267" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.36819485" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5021322" side_tool="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32932165" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -249,19 +309,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MinesweeperPlayer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
+        <state relative-caret-position="154">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
+            <element signature="e#0#10#0" expanded="true" />
             <element signature="e#170#184#0" />
-            <element signature="e#355#609#0" />
             <element signature="e#639#690#0" />
             <element signature="e#712#755#0" />
             <element signature="e#787#887#0" />
             <element signature="e#915#1244#0" />
             <element signature="e#982#1194#0" />
             <element signature="e#1014#1194#0" />
-            <element signature="e#1265#1481#0" />
-            <element signature="e#1385#1463#0" />
+            <element signature="e#1270#1486#0" />
             <element signature="e#1533#2244#0" />
             <element signature="e#1598#1647#0" />
             <element signature="e#1679#1728#0" />
@@ -285,9 +344,6 @@
             <element signature="e#4504#4581#0" />
             <element signature="e#4606#4746#0" />
             <element signature="e#4771#4925#0" />
-            <element signature="e#4947#5687#0" />
-            <element signature="e#5018#5650#0" />
-            <element signature="e#5342#5614#0" />
             <element signature="e#5514#5614#0" />
             <element signature="e#5705#5739#0" />
           </folding>

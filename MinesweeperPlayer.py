@@ -56,6 +56,7 @@ def getPixels(board):
     return boardArray
 
 def getNums():
+    """Get the encoded tile data from a screenshot."""
     pixelArray = getPixels(ImageGrab.grab())
     nArray = np.zeros([20, 20], dtype=np.int8)
     for x in range(20):
